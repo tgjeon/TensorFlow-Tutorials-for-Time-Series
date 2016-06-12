@@ -14,6 +14,7 @@ Each tutorial subject includes both code and notebook with descriptions.
 
 
 ## Dependencies
+
 ```
 TensorFlow (ver r0.8)
 numpy (ver 1.10.1)
@@ -22,3 +23,4 @@ cuda (to run examples on GPU)
 ```
 
 ## Dataset
+
