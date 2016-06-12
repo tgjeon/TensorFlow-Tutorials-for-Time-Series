@@ -7,7 +7,8 @@ Each tutorial subject includes both code and notebook with descriptions.
 
 #### 1) Time series prediction using Recurrent Neural Networks (RNN)
 
-- Prediction for sine function (code / notebook)
+- Prediction for sine wave function using Gaussian process (code / notebook)
+- Prediction for sine wave function using RNN (code / notebook)
 - Prediction for stock price (code / notebook)
 - Prediction for electricity price (code / notebook)
 
@@ -19,6 +20,7 @@ Each tutorial subject includes both code and notebook with descriptions.
 TensorFlow (ver r0.8)
 numpy (ver 1.10.1)
 matplotlib
+scikit-learn (ver 0.17.1)
 cuda (to run examples on GPU)
 ```
 
