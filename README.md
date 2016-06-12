@@ -1,6 +1,6 @@
-# TensorFlow Tutorial for Time Series
+# TensorFlow Tutorial for Time Series Prediction
 
-This tutorial is designed to easily learn TensorFlow for time series classification and prediction. 
+This tutorial is designed to easily learn TensorFlow for time series prediction. 
 Each tutorial subject includes both code and notebook with descriptions.
 
 ## Tutorial Index
