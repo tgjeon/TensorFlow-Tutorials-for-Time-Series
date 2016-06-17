@@ -5,24 +5,24 @@ Each tutorial subject includes both code and notebook with descriptions.
 
 ## Tutorial Index
 
-#### 1) Time series prediction using Recurrent Neural Networks (RNN)
+#### Time series prediction using Recurrent Neural Networks (RNN)
 
 - Prediction for sine wave function using Gaussian process (code / notebook)
 - Prediction for sine wave function using RNN (code / notebook)
-- Prediction for stock price (code / notebook)
 - Prediction for electricity price (code / notebook)
 
 
 
-## Dependencies
+#### Dependencies
 
 ```
-TensorFlow (ver r0.8)
-numpy (ver 1.10.1)
-matplotlib
-scikit-learn (ver 0.17.1)
+Python (3.4.4)
+TensorFlow (r0.9)
+numpy (1.11.1)
+pandas (0.16.2)
 cuda (to run examples on GPU)
 ```
 
-## Dataset
+#### Dataset
 
+- Energy Price Forecast 2016: http://complatt.smartwatt.net
