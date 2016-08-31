@@ -26,3 +26,11 @@ cuda (to run examples on GPU)
 #### Dataset
 
 - Energy Price Forecast 2016: http://complatt.smartwatt.net
+- Or use the uploaded csv file for price history for 2015.
+
+#### Current issues
+
+- ```tf:split_squeeze``` is deprecated and will be removed after 2016-08-01. Use ```tf.unpack``` instead.
+- ```tf:dnn``` is deprecated and will be removed after 2016-08-01. Use ```tf.contrib.layers.stack``` instead.
+
+Now I am working on modifying previous source code for tensorflow ver. 0.10.0rc0.
