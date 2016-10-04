@@ -14,7 +14,7 @@ Each tutorial subject includes both code and notebook with descriptions.
 - Prediction for sine wave function using RNN ([code](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series/blob/master/lstm-for-sine-wave.py) / [notebook](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series/blob/master/lstm-for-sine-wave.ipynb))
 - Prediction for electricity price ([code](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series/blob/master/lstm-for-epf.py) / notebook)
 
-#### Slide
+## Slide
 [Slide in uploaded on slideshare](http://www.slideshare.net/TaegyunJeon1/electricity-price-forecasting-with-recurrent-neural-networks)
 
 #### Dependencies
