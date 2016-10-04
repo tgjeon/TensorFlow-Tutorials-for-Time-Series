@@ -6,15 +6,16 @@ Each tutorial subject includes both code and notebook with descriptions.
 ## Tutorial Index
 
 #### MNIST classification using Recurrent Neural Networks (RNN)
-- Classification for MNIST using RNN (notebook)
+- Classification for MNIST using RNN ([notebook](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series/blob/master/mnist-rnn.ipynb))
 
 #### Time series prediction using Recurrent Neural Networks (RNN)
 
-- Prediction for sine wave function using Gaussian process (code / notebook)
-- Prediction for sine wave function using RNN (code / notebook)
-- Prediction for electricity price (code / notebook)
+- Prediction for sine wave function using Gaussian process ([code](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series/blob/master/gp-for-sine-wave.py) / [notebook](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series/blob/master/gp-for-sine-wave.ipynb))
+- Prediction for sine wave function using RNN ([code](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series/blob/master/lstm-for-sine-wave.py) / [notebook](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series/blob/master/lstm-for-sine-wave.ipynb))
+- Prediction for electricity price ([code](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series/blob/master/lstm-for-epf.py) / notebook)
 
-
+#### Slide
+[Slide in uploaded on slideshare](http://www.slideshare.net/TaegyunJeon1/electricity-price-forecasting-with-recurrent-neural-networks)
 
 #### Dependencies
 
