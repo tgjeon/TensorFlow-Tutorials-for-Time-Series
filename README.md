@@ -5,6 +5,9 @@ Each tutorial subject includes both code and notebook with descriptions.
 
 ## Tutorial Index
 
+#### MNIST classification using Recurrent Neural Networks (RNN)
+- Classification for MNIST using RNN (notebook)
+
 #### Time series prediction using Recurrent Neural Networks (RNN)
 
 - Prediction for sine wave function using Gaussian process (code / notebook)
