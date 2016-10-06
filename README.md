@@ -15,7 +15,8 @@ Each tutorial subject includes both code and notebook with descriptions.
 - Prediction for electricity price ([code](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series/blob/master/lstm-for-epf.py) / notebook)
 
 ## Slide
-[Slide in uploaded on slideshare (TensorFlow-KR Meetup)](http://www.slideshare.net/TaegyunJeon1/electricity-price-forecasting-with-recurrent-neural-networks)
+- [Slide in uploaded on slideshare (TensorFlow-KR Meetup)](http://www.slideshare.net/TaegyunJeon1/electricity-price-forecasting-with-recurrent-neural-networks)
+- [Slide in the github (KSC 2016 Tutorial)](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series/raw/master/KSC2016%20-%20Recurrent%20Neural%20Networks.pptx)
 
 #### Dependencies
 
